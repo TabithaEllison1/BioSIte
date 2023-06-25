@@ -1,2 +1,5 @@
-# bioSite
-BioSite Project for Web200
+# WEB 200 Fundamentals of Web Development
+## Contributors
+* Professor Cristy Cross
+* Tabitha Ellison
+
