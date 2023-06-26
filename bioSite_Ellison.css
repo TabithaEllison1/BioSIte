@@ -1,0 +1,9 @@
+html, body {
+  font-size: 16px;
+}
+
+ p {
+  font-family: 'Quattrocentro', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 300;
+  line-height: 1.4em;
+ }
